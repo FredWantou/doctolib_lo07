@@ -1,6 +1,9 @@
 
 <!-- ----- début fragmentCaveMenu -->
 
+
+
+
 <nav class="navbar navbar-expand-lg bg-success fixed-top">
   <div class="container-fluid">
     <a class="navbar-brand" href="router1.php?action=CaveAccueil">POUNA-DIFFO|Administrateur| <?php /*$nom?*/echo'nom'.'|';?></a>
